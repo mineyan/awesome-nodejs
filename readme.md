@@ -793,6 +793,8 @@
 - [@sindresorhus/is](https://github.com/sindresorhus/is) - Type check values.
 - [env-dot-prop](https://github.com/simonepri/env-dot-prop) - Get, set, or delete nested properties of process.env using a dot path.
 - [emittery](https://github.com/sindresorhus/emittery) - Simple and modern async event emitter.
+- [function-threads](https://github.com/nairihar/function-threads) - Multi-threading library for Node.js which allows run functions in thread.
+
 
 
 ## Resources
